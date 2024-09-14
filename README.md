@@ -30,6 +30,8 @@ while True:
  i+=s
 ```
 <h2> CLIENT</h2>
+
+
 ```
 s=socket.socket()
 s.connect(('localhost',8000))
